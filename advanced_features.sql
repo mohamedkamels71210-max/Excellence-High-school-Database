@@ -1,1 +1,0 @@
-show index from students;
